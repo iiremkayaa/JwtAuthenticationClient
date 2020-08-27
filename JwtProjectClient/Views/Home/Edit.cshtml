@@ -1,0 +1,11 @@
+﻿@model ProductAdd
+<form action="Edit" asp-controller="Home" method="post" class="mt-auto mt-4 w-50 p-3">
+    <input type="hidden" asp-for="Id"/>
+    <div class="form-group">
+        <label for="Name">Product Name</label>
+        <span asp-validation-for="Name"></span>
+        <input asp-for="Name" class="form-control" type="text" />
+    </div>
+    <button type="submit" class="btn btn-info btn-sm">Save</button>
+    <a asp-action="Index" aspc-controller="Home" class="btn btn-warning btn-sm">Cancel</a>
+</form>

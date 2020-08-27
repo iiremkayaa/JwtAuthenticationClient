@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOb1p/7V883P5i4dVOKuxc+P5EfpPQ3EZlssT4D6VAcJtnUNYS6nTZfkRUv/qEdlJXSUTUlP61QV01Gcpb3C3Q==",
+  "success": true,
+  "projectFilePath": "E:\\C#Project\\JwtProjectClient\\JwtProjectClient\\JwtProjectClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Irem\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
